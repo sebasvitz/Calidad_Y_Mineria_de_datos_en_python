@@ -1,0 +1,6 @@
+login_attempts,session_duration,encryption_used,ip_reputation_score,failed_logins,browser_type,attack_detected
+5,450.5,AES,0.65,1,Chrome,0
+2,120.3,None,0.12,0,Firefox,0
+8,890.7,DES,0.88,3,Edge,1
+4,550.2,AES,0.45,1,Safari,0
+6,720.9,AES,0.72,2,Chrome,1
