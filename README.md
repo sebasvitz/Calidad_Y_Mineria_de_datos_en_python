@@ -23,4 +23,4 @@ Repositorio del proyecto/práctica de **Calidad de Datos y Minería de Datos en 
 
 ## Créditos / Equipo
 
-- Integrantes: *(agregar nombres del equipo)*
+- Integrantes: Mariana Urrego, Natalia Urrego, Sebastián Villa, Steve Ellis
