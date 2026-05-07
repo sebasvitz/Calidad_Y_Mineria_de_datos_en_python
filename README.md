@@ -2,6 +2,7 @@
 
 Repositorio del proyecto/práctica de **Calidad de Datos y Minería de Datos en Python**.
 
+**App en Streamlit:** https://calidadymineriadedatosenpython-d37fsi3u678qwxhkqmdjmg.streamlit.app
 
 ## Objetivos
 
@@ -23,4 +24,3 @@ Repositorio del proyecto/práctica de **Calidad de Datos y Minería de Datos en 
 ## Créditos / Equipo
 
 - Integrantes: *(agregar nombres del equipo)*
-
